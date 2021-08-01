@@ -68,7 +68,7 @@
 
                             <textarea name="description" class="form-control border-0 text-secondary" disabled style="resize:none;">{{$todo->description}}</textarea>
                             <div class="pt-2">
-                              <span class=""> เลือกความคืบหน้าการดำเนินงาน </span>
+                              <span class=""> เลือกความคืบหน้าการดำเนินงาน s</span>
                             </div>
                             <form class="mt-2" action="update" method="post">
                               @csrf
